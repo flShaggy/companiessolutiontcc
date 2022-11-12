@@ -9,12 +9,12 @@
     <title>Planos - Companies Solutions</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/pricing/">
-    <link rel="stylesheet" type="text/css" href="{{ asset('CSS_Bootstrap/nav.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/nav.css') }}">
 
     
 
     <!-- Bootstrap core CSS -->
-<link href="{{ asset('CSS_Bootstrap/bootstrap.min.css') }} " rel="stylesheet">
+<link href="{{ asset('css/bootstrap.min.css') }} " rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
