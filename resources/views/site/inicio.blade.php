@@ -52,6 +52,10 @@
         <form action="./contato">
           <button style="border-radius: 30px;" >Contato</button>
         </form>
+        
+        <form action="./Login.html">
+            <button  style="border: none ; background-color: transparent;"><img src="../img/login.png" width="30" height="30"></button>
+        </form>
     </nav>
 </div>
 </div>
