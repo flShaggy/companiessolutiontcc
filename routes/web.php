@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route:: get ('/', 'App\Http\Controllers\PrincipalController@principal')->name('site.index4');
+Route:: get ('/', 'App\Http\Controllers\PrincipalController@principal')->name('site.ind');
     Route::get('/sobre-nos', 'App\Http\Controllers\SobreNosController@sobreNos')->name('site.sobrenos');
     Route::get('/compra', 'App\Http\Controllers\CompraController@compra')->name('site.compra');
     Route::get('/contato', 'App\Http\Controllers\ContatoController@contato')->name('site.contato');
